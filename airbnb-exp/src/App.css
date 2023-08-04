@@ -1,0 +1,130 @@
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Poppins:wght@100;300;500;700;900&display=swap');
+/* *{
+  margin: 0;
+} */
+.nav-container{
+  height: 5rem;
+  fill: #FFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+.img{
+  margin: 1.6rem;
+}
+.hero-section{
+  padding: 5rem;
+}
+.hero-img{
+  display: block;
+  margin: 0 auto 4rem auto;
+}
+.hero-heading,.hero-text{
+  
+  margin-bottom: 1rem;
+}
+.hero-heading{
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.25rem;
+font-style: normal;
+font-weight: 600;
+line-height: 110%
+  
+}
+.hero-text{
+  width: 20rem;
+height: 3.5rem;
+font-family: Poppins;
+font-size: 1rem;
+font-style: normal;
+font-weight: 300;
+line-height: 110%;
+  font-size: 1rem;
+
+}
+.card-holder{
+  margin-left:2rem ;
+}
+.image{
+  background-image: url(./assets/card-img.png);
+  background-size: 11rem 14.5rem;
+  object-fit: contain;
+  width: 11rem;
+height: 14.5rem;
+border-radius: 0.5625rem;
+padding:0.5rem;
+background-repeat: no-repeat;
+}
+.text{
+  font-size: 0.75rem;
+  font-weight: 300;
+  font-family: Poppins;
+  margin-top: 10px;
+
+
+
+
+}
+.image-holder{
+  margin: 0 2rem;
+}
+.rating{
+  font-family: Poppins;
+font-size: 0.75rem;
+font-style: normal;
+font-weight: 300;
+margin-left: 0.2rem;
+}
+.r-num{
+  color: #918E9B;
+font-family: Poppins;
+font-size: 0.75rem;
+font-style: normal;
+font-weight: 300;
+margin-left: 0.2rem;
+}
+.country{
+  color: #918E9B;
+font-family: Poppins;
+font-size: 0.75rem;
+font-style: normal;
+font-weight: 300;
+margin-left: 0.2rem;
+}
+.info{
+  margin-top:0.5rem ;
+}
+.price{
+  font-family: Poppins;
+font-size: 0.75rem;
+font-style: normal;
+font-weight: 300;
+line-height: 110%;
+margin-top: 0.5rem;
+}
+.product-info{
+  width: 4rem;
+height: 1.3rem;
+background-color: #FFF;
+border-radius: 0.125rem;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.req{
+  color: #222;
+text-align: center;
+font-family: Poppins;
+font-size: 0.64rem;
+font-style: normal;
+font-weight: 400;
+margin: 0 auto;
+}
+.card-abc{
+  display: flex;
+}
+.card{
+  display: flex;
+  
+  padding: 3rem;
+}
